@@ -72,7 +72,7 @@ gem 'appsignal'
 
 gem 'rails_admin'
 
-
+gem 'autoprefixer-rails'
 
 
 

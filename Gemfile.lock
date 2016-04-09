@@ -279,6 +279,7 @@ PLATFORMS
 
 DEPENDENCIES
   appsignal
+  autoprefixer-rails
   better_errors
   binding_of_caller
   bootstrap-sass
