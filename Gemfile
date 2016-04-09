@@ -70,5 +70,9 @@ gem 'simple_form'
 
 gem 'appsignal'
 
+gem 'rails_admin'
+
+gem 'autoprefixer-rails'
+
 
 
